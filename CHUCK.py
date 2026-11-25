@@ -47,7 +47,7 @@
 
 # lets play with numbers
 
-# name= "Blessing"
+# name= "Nomalanga"
 # age= 20
 # actual_age= 20.98
 # math= 5** 7 + 6 / 9 * 6 - 4
